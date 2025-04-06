@@ -1,0 +1,7 @@
+ 
+# Ignore all folders named 'myenv'
+myenv/
+
+# Ignore files named 'install' and 'run'
+install
+run
