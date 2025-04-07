@@ -4,3 +4,4 @@ myenv/
 
 # Ignore files named 'install' and 'run'
 */*.bat
+*/*.db
